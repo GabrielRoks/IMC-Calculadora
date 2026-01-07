@@ -20,7 +20,7 @@ Com o valor do IMC, pode-se classificar o estado nutricional segundo faixas (por
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 ✔ Insere peso e altura
 ✔ Calcula o IMC automaticamente
@@ -53,7 +53,7 @@ IMC-Project/
 
 ---
 
-## 🧪 Como Usar
+## Como Usar
 
 1. **Clone o repositório**
 
